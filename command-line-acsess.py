@@ -1,6 +1,5 @@
 import subprocess
 import sys
-import turtle
 
 
 
@@ -20,5 +19,3 @@ while True:
 
     except:
         pass
-    if command == "exit":
-        sys.exit()
